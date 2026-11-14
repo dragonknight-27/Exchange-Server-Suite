@@ -203,4 +203,4 @@ This repository serves as the official landing page for Exchange Server Suite. T
 **Get the most recent version of Exchange Server Suite today!**
 
 ---
-**Last updated:** 2026-11-13 18:57:41 UTC
+**Last updated:** 2026-11-14 00:09:26 UTC
